@@ -22,3 +22,6 @@ Cursor : Adwaita
 Icons : Rowaita-Cyan-Dark
 
 Shell : DeepBlue-Dark
+
+## Win
+- SupportAssist
